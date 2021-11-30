@@ -20,6 +20,7 @@ namespace ecommerce.Controllers
 
         public IActionResult Index()
         {
+            String
             return View();
         }
 
